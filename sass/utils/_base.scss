@@ -12,8 +12,8 @@ address {
   font-style: normal;
 }
 body {
-  font-family: $main-font;
-  color: $main-color;
+  font-family: var(--main-font);
+  color: var(--main-color);
 }
 .container {
   width: 1200px;
